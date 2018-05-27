@@ -6,7 +6,7 @@ Recipe.new do
   grinds_amount "42g"
   grind_size :medium_coarse
 
-  prep "Heat filter and brewer, and dump water"
+  prep "Saturate filter with boiling water, dump, then pour grounds into filter"
 
   step "Wet grounds and allow bloom (stir if necessary)", scale: 150
   time 45
